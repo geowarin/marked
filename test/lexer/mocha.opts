@@ -1,0 +1,4 @@
+-u bdd
+--recursive ./test/lexer/**/*.js
+--full-trace
+--reporter spec
